@@ -1,0 +1,27 @@
+#filtersColumn{
+    font-size: large;
+    font-family: 'Calibri', 'Fira Code', sans-serif;
+    background-color: rgb(41, 36, 30) !important;
+}
+.filterWrapper{
+    font-weight: 500;
+}
+
+
+
+/* Action Warning */
+.mochaTitle {
+    color: #ff0000 !important;
+}
+
+/* List */
+
+tr{
+    margin-bottom: 5px !important;
+}
+.torrentsTableContextMenuTarget{
+    margin-bottom: 5px !important;
+}
+#torrentsTableDiv{
+    font-family: Calibri;
+}
