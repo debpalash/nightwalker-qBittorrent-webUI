@@ -4,7 +4,7 @@ Best enjoyed with warm tea or coffee :D
 
 **_A darker theme for qBittorrent WebUI_ (made with the help of the Walkerservers community)**
 
-![preview][preview]
+![image](https://user-images.githubusercontent.com/4178343/128639264-c97beef5-f00d-49f1-8ca7-9bf6ab36fd3e.png)
 
 # Features
 
